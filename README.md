@@ -7,3 +7,10 @@ Summarize Ernest Hemingway on Writing, Create a word cloud.
 Colab: https://colab.research.google.com/drive/1Tf2eJQssE2JeRhTh5bryHjf-_RJiwyIg#scrollTo=p4QtCJxI5TwM
 
 Final_result: https://docs.google.com/document/d/1MoBhihwsXQOmjyCybogxHcOQfJorOvyKdCqsg9SIeaQ/edit?usp=sharing
+
+
+# Week 2 - hw2
+
+Scrape all of Hemingway’s writing 
+
+Create Data Visualization summarizing what you learned.
